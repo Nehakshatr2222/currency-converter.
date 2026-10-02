@@ -24,4 +24,7 @@ Later, it was also submitted as part of the **Code Unnati Innovation Marathon 20
 - **Marathon:** Code Unnati Innovation Marathon 2024–25, organized by Gujarat Technological University, TASK, Edunet Foundation, and SAP  
 - **Achievement:** Successfully submitted project during the innovation marathon  
 
+ ## Screenshot
+ <img width="640" height="800" alt="Currency converter" src="https://github.com/user-attachments/assets/da549914-2e03-4966-ae6e-30a5c086e888" />
+
 
